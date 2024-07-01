@@ -1,6 +1,3 @@
-# flask-todo
-
-
 # Flask Todo App
 
 A simple, lightweight todo application built with Flask and Jinja templates.
@@ -23,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/flask-todo-app.git
+   git clone https://github.com/shrey1002/flask-todo-app.git
    cd flask-todo-app
    ```
 
